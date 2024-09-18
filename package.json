@@ -1,5 +1,5 @@
 {
-  "name": "luhn-validation",
+  "name": "@getevy/luhn-validation",
   "version": "1.0.4",
   "description": "A full TypeScript EAN, UPC, IMEI, EID, ISBN & card validation tool",
   "main": "lib/index.js",
