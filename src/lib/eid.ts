@@ -1,4 +1,4 @@
-import bigInt = require('big-integer');
+import bigInt from 'big-integer';
 import { supported } from './lib';
 
 /**

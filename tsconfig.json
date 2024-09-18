@@ -1,11 +1,13 @@
 {
   "compilerOptions": {
     "skipLibCheck": true,
+    "lib": ["es2016"],
     "target": "es5",
     "module": "commonjs",
     "declaration": true,
     "outDir": "./lib",
-    "strict": true
+    "strict": true,
+    "esModuleInterop": true
   },
   "include": ["src"],
   "exclude": ["node_modules", "**/__tests__/*"]
