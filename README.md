@@ -2,6 +2,8 @@
       <br>A full TypeScript EAN, UPC, IMEI, EID, ISBN & card validation tool<br/>
 </h1>
 
+** Forked from https://github.com/kfbfarley/luhn-validation **
+
 A quick and useful TypeScript package verify whether the EAN, UPC, IMEI, EID, ISBN, and card is valid or not, it uses <b>Luhn algorithm</b> validation method.
 
 > [Luhn algorithm](https://www.geeksforgeeks.org/luhn-algorithm/) also known as the modulus 10 or mod 10 algorithm, is a simple checksum formula used to validate a variety of identification numbers.
