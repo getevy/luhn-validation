@@ -53,8 +53,6 @@
     "tslint-config-prettier": "^1.18.0"
   },
   "dependencies": {
-    "big-integer": "^1.6.51",
-    "install": "^0.13.0",
-    "npm": "^10.0.0"
+    "big-integer": "^1.6.51"
   }
 }
